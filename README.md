@@ -39,7 +39,7 @@ Drawing from years of research from industry players and scientific organization
 
 The first stage of the asteroid exploitation project is to identify potential candidates for exploitation. This can be accomplished by extracting data from the available JPL small body, which records discovered objects and their characteristics. Further characterization of asteroids can be carried out from earth orbit through telescopic spectroscopy, and by radar imaging.
 
-[Target-Selection](https://github.com/Alumet/Astro-Fuel/tree/master/Target-Selection)
+Link: [Target-Selection](https://github.com/Alumet/Astro-Fuel/tree/master/Target-Selection)
 
 ####Step 2
 
@@ -49,9 +49,13 @@ In order to do so, properly equipped Cube Sat nanosatellites can be launched to 
 
 The cost of launching this mission, considering that launch is carried out by piggybacking to orbit and a 28kg payload  of 4 Cube Sats, is likely to range between $20,000,000 and $25,000,000 (~$15,000,000 for construction and ~$6,000,000 to ~$10,000,000 for launch). The cost could be further reduced if piggybacking on a launch for geostationary orbit, thus reducing the Delta-V requirement to reach the asteroid.
 
-[Propulsions Systems](https://github.com/Alumet/Astro-Fuel/tree/master/Cubesat/Propulsion)
+Link: [Propulsions Systems](https://github.com/Alumet/Astro-Fuel/tree/master/Cubesat/Propulsion)
 
 ####Step 3
+
+Once the water resource of the asteroid is confirmed, the exploitation phase can be started. A main operations platform can be launched to orbit the asteroid, which will serve as a base of operations as well as a main storage facility for the extracted water. From there, mining drones 4m in size can navigate to the asteroid’s surface to which they may grip to thanks to mobile legs consisting in auger drills. 
+
+These drills would elevate the extracted materials into the hollow auger containment tube, which would vaporize the bound water thanks to heat exchangers in the tube walls. The water vapor would then be led to condensate and accumulate in a tank, leaving only dry mass in the auger drill. Thanks to the mobility of their anchoring legs, the drones would be able to move across the asteroid’s surface despite the very low gravity environment. Once full, the drones would return to the operations platform in orbit to transfer the collected water, then continue operations. 
 
 
 ####Step 4
