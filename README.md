@@ -23,9 +23,16 @@ Develop an approach for characterizing the composition of asteroid for mining po
 
 # EXPLANATION
 
-Fuel transport in earth-launched spacecrafts is a significant barrier in the development of a full-blown space industry. In this context, being able to access readily available fuel, right outside Earth's doorstep, would be a radical game changer.
+-	The issue
 
-Drawing from years of research from industry players and scientific organizations, we believe that this idea could be made a reality by extracting water from asteroids' surfaces. We propose a mission plan to identify and characterize asteroids in terms of potential water yield, extract and recover liquid water from the superficial materials, and finally stockpile and transform the extracted water into liquid oxygen & liquid hydrogen. Having the processed fuel in the upper LEO would thus allow easy access for outbound spacecrafts to refuel.
+Fuel transport in earth-launched spacecrafts is a significant barrier in the development of a full-blown space industry. A significant part of the fuel loaded for a launch is used for escaping earth’s atmosphere and reaching orbit, all the while having to carry along the required fuel to continue a mission.
+
+-	Our solution
+
+Having the capability to access readily available fuel in Low Earth Orbit, right at Earth's doorstep, would be a radical game changer. This would allow for launched crafts to only carry the necessary energy to reach LEO and dock to a refueling station in order to carry on with a mission. The mass of the launcher, and subsequently the amount of fuel required to reach LEO, is thus reduced.
+
+Drawing from years of research from industry players and scientific organizations, we believe that this idea could be made a reality by extracting water from asteroids' surfaces, and transforming it by electrolysis into Liquid Oxygen and Hydrogen to use as propellant. We propose a mission plan to identify and characterize asteroids in terms of potential water yield, extract and recover liquid water from the superficial materials, and finally stockpile and transform the extracted water into liquid oxygen & liquid hydrogen. Having the processed fuel stored in the upper LEO would thus allow easy access for outbound spacecrafts to refuel.
+
 
 # RESOURCES USED
 
