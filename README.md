@@ -1,7 +1,9 @@
 # Astro-Fuel
+![alt tag]()
+
 NASA Space Apps Challenge 2016 : ASTEROID MINING
 
-#####Projet page
+#####Project page
 https://2016.spaceappschallenge.org/challenges/solar-system/asteroid-mining/projects/astro-fuel
 
 #####Presentation
