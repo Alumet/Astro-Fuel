@@ -16,11 +16,11 @@ https://prezi.com/ruagaqolkvr5/present/?auth_key=q1kfwvl&follow=0vjt6ivejkro&kw=
 
 #####Commercial Video
 
-<p align="center">
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=58Ok8RiOTzU
 " target="_blank"><img src="http://img.youtube.com/vi/58Ok8RiOTzU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-</p>
+
 
 # THE CHALLENGE: ASTEROID MINING
 
