@@ -1,8 +1,8 @@
 
 <h1 align="center">Astro-Fuel<h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png">
-</p>
+  <p align="center">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png">
+  </p>
 
 <p align="center">NASA Space Apps Challenge 2016 : ASTEROID MINING <p>
 
