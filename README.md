@@ -1,10 +1,10 @@
 
 <h1 align="center">Astro-Fuel<h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png" alt="Sublime's custom image"/>
+  <img src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png">
 </p>
 
-NASA Space Apps Challenge 2016 : ASTEROID MINING
+<p align="center">NASA Space Apps Challenge 2016 : ASTEROID MINING <p>
 
 #####Project page
 https://2016.spaceappschallenge.org/challenges/solar-system/asteroid-mining/projects/astro-fuel
