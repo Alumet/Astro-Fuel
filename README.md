@@ -33,6 +33,12 @@ Having the capability to access readily available fuel in Low Earth Orbit, right
 
 Drawing from years of research from industry players and scientific organizations, we believe that this idea could be made a reality by extracting water from asteroids' surfaces, and transforming it by electrolysis into Liquid Oxygen and Hydrogen to use as propellant. We propose a mission plan to identify and characterize asteroids in terms of potential water yield, extract and recover liquid water from the superficial materials, and finally stockpile and transform the extracted water into liquid oxygen & liquid hydrogen. Having the processed fuel stored in the upper LEO would thus allow easy access for outbound spacecrafts to refuel.
 
+-	Project plan
+
+..* Step 1
+
+The first stage of the asteroid exploitation project is to identify potential candidates for exploitation. This can be accomplished by extracting data from the available JPL small body, which records discovered objects and their characteristics. Further characterization of asteroids can be carried out from earth orbit through telescopic spectroscopy, and by radar imaging.
+
 
 # RESOURCES USED
 
