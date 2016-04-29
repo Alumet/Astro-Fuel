@@ -82,6 +82,10 @@
 
 ###Alternative modules
 
+<p align="center">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Broadband%20IR%20Spectrometer.PNG">
+</p>
+
 #####Broadband IR Spectrometer
 - Model example: BIRCHES Spectrometer (LWaDi mission)
 - Spectral range 1-4μm (encompasses full bound water detection range)
@@ -89,14 +93,10 @@
 - Dimensions: 100x100x150mm
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Cubesat%20structure.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Salar%20panels%202.PNG">
 </p>
 
 #####Solar panels
 - Model: Pumpkin Inc Turkey tail configuration
 - 56W max. output
 - Requires increased cell protection against extended exposure to radiation
-
-<p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Cubesat%20structure.PNG">
-</p>
