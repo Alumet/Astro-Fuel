@@ -79,6 +79,7 @@
 - Compatible with solid iodine propellant (2x storage density of xenon)
 - Specs:http://busek.com/index_htm_files/70010819%20BIT-3%20Data%20Sheet%20RevB.pdf
 
+<p><br></p>
 
 ###Alternative modules
 
