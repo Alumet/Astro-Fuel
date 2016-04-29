@@ -35,13 +35,13 @@ Drawing from years of research from industry players and scientific organization
 
 #PROJECT PLAN
 
-####Step 1
+####Step 1: Identification of potential targets
 
 The first stage of the asteroid exploitation project is to identify potential candidates for exploitation. This can be accomplished by extracting data from the available JPL small body, which records discovered objects and their characteristics. Further characterization of asteroids can be carried out from earth orbit through telescopic spectroscopy, and by radar imaging.
 
 Link: [Target-Selection](https://github.com/Alumet/Astro-Fuel/tree/master/Target-Selection)
 
-####Step 2
+####Step 2: In-situ spectrographic survey of target asteroid
 
 Once a potentially water-rich asteroid is identified, further characterization of the latter can be carried out in order to confirm and better evaluate parameters such as an asteroid’s water and volatiles content, mass, and topography.
 
@@ -51,14 +51,14 @@ The cost of launching this mission, considering that launch is carried out by pi
 
 Link: [Propulsions Systems](https://github.com/Alumet/Astro-Fuel/tree/master/Cubesat/Propulsion)
 
-####Step 3
+####Step 3: Water extraction operations
 
 Once the water resource of the asteroid is confirmed, the exploitation phase can be started. A main operations platform can be launched to orbit the asteroid, which will serve as a base of operations as well as a main storage facility for the extracted water. From there, mining drones 4m in size can navigate to the asteroid’s surface to which they may grip to thanks to mobile legs consisting in auger drills. 
 
 These drills would elevate the extracted materials into the hollow auger containment tube, which would vaporize the bound water thanks to heat exchangers in the tube walls. The water vapor would then be led to condensate and accumulate in a tank, leaving only dry mass in the auger drill. Thanks to the mobility of their anchoring legs, the drones would be able to move across the asteroid’s surface despite the very low gravity environment. Once full, the drones would return to the operations platform in orbit to transfer the collected water, then continue operations. 
 
 
-####Step 4
+####Step 4: Water recovery to LOE and processing to LOX/LH2
 
 In order to recover the water from the operations platform, the latter would thrust back to earth LOE to dock and transfer the fluid to an orbiting station. This station would serve both a refueling purpose for launch missions from earth, and a processing purpose, producing Liquid Hydrogen and Oxygen though electrolysis. This implies that the power requirement for the station would be significant, and would heavily influence its design.
 
