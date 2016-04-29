@@ -14,23 +14,23 @@ The databse is too large to include in this repository, and downloading it takes
 
 #####1_Dat_prepartion.py
 
-Extracts asteroid from database and add the corresponding Delta-V required to rendezvous from LEO
+Extracts asteroid from database and adds the corresponding Delta-V required to rendezvous from LEO
 
 #####2_Dv_geosta_calculator.py
 
-Calculates delta-v for asteroids form Geostationary orbit according to Shoemaker and Helin (1978)
+Calculates delta-v for asteroids from Geostationary orbit, according to Shoemaker and Helin (1978)
 
 #####3_Data_processing.py
 
-Extracts asteroids meeting mission requirements.
-  -	C type asteroids 
-  -	Low spin. Objects with rotation period greater than 1hr
-  -	Delta-V needed to rendezvous smaller than 5km/s
-  -	MOID smaller than 0.02 AU (5x dist Earth – Moon)
-  -	Orbit inclination smaller than 10°
+Extracts asteroids meeting mission requirements, which are:
+  -	C type asteroids only,
+  -	Low spin asteroids, ie objects with rotation a period greater than 1hr,
+  -	Delta-V required to rendezvous smaller than 5km/s,
+  -	MOID smaller than 0.02 AU (ie 5x dist Earth – Moon),
+  -	Orbit inclination smaller than 10°.
 
 
-## Final targets
+## Final computed targets
 
 | Full Name                    | Class         | Type  | Rotation (h/rot)  | Delta-V (km/s)|
 | -----------------------------|---------------|-------|-------------------|---------------|
