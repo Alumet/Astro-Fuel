@@ -1,5 +1,5 @@
 #Target selection
-Scripts aim to extract from asteroid database, the most suitable asteroid for 2nd stage
+Scripts aim to extract from asteroid database the most suitable asteroid for 2nd stage
 
 ##Database
 
@@ -14,7 +14,7 @@ The databse is too large to include in this repository, and downloading it takes
 
 #####1_Dat_prepartion.py
 
-Extract asteroid from database and add the corresponding Delta-V required to rendezvous form LEO
+Extracts asteroid from database and add the corresponding Delta-V required to rendezvous from LEO
 
 #####2_Dv_geosta_calculator.py
 
@@ -22,7 +22,7 @@ Calculates delta-v for asteroids form Geostationary orbit according to Shoemaker
 
 #####3_Data_processing.py
 
-Extract asteroids meeting mission requirement.
+Extracts asteroids meeting mission requirements.
   -	C type asteroids 
   -	Low spin. Objects with rotation period greater than 1hr
   -	Delta-V needed to rendezvous smaller than 5km/s
