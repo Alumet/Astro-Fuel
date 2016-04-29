@@ -13,7 +13,7 @@ Solar sail propulsion systems provide very weak instantaneous propulsion. Over e
 From these results, we can compute the  time required to obtain the target Delta-V required to rendezvous with the target asteroid.
   
   <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Propulsion/graph%201.PNG">
   </p>
  
 Our results showthat the required mission time tends to be very long if the solar sails are kept at a reasonable size (30 m2). Acceleration time will range from 5 years (aiming for 3km/s Delta-V) to 9 years (aiming for 5km/s Delta-V).
