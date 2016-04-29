@@ -1,5 +1,8 @@
-# Astro-Fuel
-![alt tag](https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png)
+
+<h1 align="center">Astro-Fuel<h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png" alt="Sublime's custom image"/>
+</p>
 
 NASA Space Apps Challenge 2016 : ASTEROID MINING
 
