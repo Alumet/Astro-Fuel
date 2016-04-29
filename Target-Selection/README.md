@@ -29,3 +29,24 @@ Extract asteroids meeting mission requirement.
   -	MOID smaller than 0.02 AU (5x dist Earth – Moon)
   -	Orbit inclination smaller than 10°
 
+
+## Final targets
+
+| Full Name                    | Class         | Type  | Rotation (h/rot)  | Delta-V (km/s)|
+| -----------------------------|---------------|-------|-------------------|---------------|
+| 162173 Ryugu (1999 JU3)      |               |       |                   |               |
+|       (2006 CT)              |               |       |                   |               |
+|101955 Bennu (1999 RQ36)      |               |       |                   |               |
+|       (2014 WF201)           |               |       |                   |               |
+|              (1999 NW2)      |               |       |                   |               |
+|       (2013 NJ)              |               |       |                   |               |
+|       (2007 CX50)            |               |       |                   |               |
+|       (2008 TT26)            |               |       |                   |               |
+|207945 (1991 JW)              |               |       |                   |               |
+|       (2006 UA216)           |               |       |                   |               |
+|  3361 Orpheus (1982 HR)      |               |       |                   |               |
+|       (2009 FK)              |               |       |                   |               |
+|163249 (2002 GT)              |               |       |                   |               |
+|       (2001 EC16)            |               |       |                   |               |
+|136617 (1994 CC)              |               |       |                   |               |
+|       (2014 BR57)            |               |       |                   |               |
