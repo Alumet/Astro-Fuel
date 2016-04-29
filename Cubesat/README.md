@@ -51,7 +51,7 @@
 </p>
 
 #####Spectrometer
-- Argus 1000 IR Spectrometer (Ext. range)
+- Thoth Argus 1000 IR Spectrometer (Ext. range)
 - Spectral range 1-2.4μm, 5nm resolution
 - Dimensions: 45x50x80mm
 - Specs: http://thothx.com/manuals/Argus%20Owner's%20Manual,%20Thoth%20Technology,%20Oct%2010,%20rel%201_03.pdf
