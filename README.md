@@ -3,6 +3,8 @@ NASA Space Apps Challenge 2016 : ASTEROID MINING
 
 https://2016.spaceappschallenge.org/challenges/solar-system/asteroid-mining/projects/astro-fuel
 
+https://prezi.com/ruagaqolkvr5/present/?auth_key=q1kfwvl&follow=0vjt6ivejkro&kw=present-ruagaqolkvr5&rc=ref-195544653
+
 # THE CHALLENGE: ASTEROID MINING
 
 Develop an approach for characterizing the composition of asteroid for mining potential and a process for mining different compositions. Explore a possible division of labor involving different types of vehicles (e.g. sensor units, drilling units, power gathering and distribution, extracted resources handling and transferring). Consider solutions for moving said asteroids between different orbits and/or consequently make periodical adjustments to keep them in place. Analyze how your idea would cope in some of the given scenarios or outline a scheme of your own.
