@@ -26,7 +26,7 @@ Extracts asteroids meeting mission requirements, which are:
   -	C type asteroids only,
   -	Low spin asteroids, ie objects with rotation a period greater than 1hr,
   -	Delta-V required to rendezvous smaller than 5km/s,
-  -	MOID smaller than 0.02 AU (ie 5x dist Earth – Moon),
+  -	Earth MOID (Minimum Orbit Intersection Distance) smaller than 0.02 AU (ie 5x dist Earth – Moon),
   -	Orbit inclination smaller than 10°.
 
 
