@@ -1,5 +1,5 @@
 # Astro-Fuel
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png)
 
 NASA Space Apps Challenge 2016 : ASTEROID MINING
 
