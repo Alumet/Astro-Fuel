@@ -39,6 +39,13 @@ Drawing from years of research from industry players and scientific organization
 
 The first stage of the asteroid exploitation project is to identify potential candidates for exploitation. This can be accomplished by extracting data from the available JPL small body, which records discovered objects and their characteristics. Further characterization of asteroids can be carried out from earth orbit through telescopic spectroscopy, and by radar imaging.
 
+####Step 2
+
+
+####Step 3
+
+
+####Step 4
 
 # RESOURCES USED
 
