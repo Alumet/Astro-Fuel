@@ -4,16 +4,13 @@
 
 ###Design loadout
 
-<p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Cubesat%20structure.PNG">
-</p>
 
 #####Cubesat structure
 - 3U (100x100x300mm) solid wall structure
 - Requires increased aluminium against radiation
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/MotherBoard.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Cubesat%20structure.PNG">
 </p>
 
 #####Motherboard
@@ -22,7 +19,7 @@
 - Specs:http://cubesatkit.com/docs/datasheet/DS_CSK_MB_710-00484-E.pdf
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Processor%20Module.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/MotherBoard.PNG">
 </p>
 
 #####Processor Module
@@ -32,7 +29,7 @@
 - Specs:http://cubesatkit.com/docs/datasheet/DS_CSK_PPM_A3_710-00516-B.pdf
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Battery.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Processor%20Module.PNG">
 </p>
 
 #####Battery
@@ -41,7 +38,7 @@
 - Specs:http://cubesatkit.com/docs/datasheet/DS_CSK_BM_1_710-01006-A.pdf
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Attitude%20Determination%20%26%20Control.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Battery.PNG">
 </p>
 
 #####Attitude Determination & Control
@@ -50,7 +47,7 @@
 - Specs:http://cubesatkit.com/docs/datasheet/DS_CSK_ADACS_634-00412-A.pdf
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Spectrometer.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Attitude%20Determination%20%26%20Control.PNG">
 </p>
 
 #####Spectrometer
@@ -60,7 +57,7 @@
 - Specs:http://thothx.com/manuals/Argus%20Owner's%20Manual,%20Thoth%20Technology,%20Oct%2010,%20rel%201_03.pdf
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Solar%20pannels.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Spectrometer.PNG">
 </p>
 
 #####Solar panels
@@ -70,7 +67,7 @@
 - Requires increased cell protection against extended exposure to radiation
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/BIT-3%20RF.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Solar%20pannels.PNG">
 </p>
 
 #####Propulsion
@@ -79,13 +76,14 @@
 - Compatible with solid iodine propellant (2x storage density of xenon)
 - Specs:http://busek.com/index_htm_files/70010819%20BIT-3%20Data%20Sheet%20RevB.pdf
 
+<p align="center">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/BIT-3%20RF.PNG">
+</p>
+
 <p><br></p>
 
 ###Alternative modules
 
-<p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Broadband%20IR%20Spectrometer.PNG">
-</p>
 
 #####Broadband IR Spectrometer
 - Model example: BIRCHES Spectrometer (LWaDi mission)
@@ -94,10 +92,14 @@
 - Dimensions: 100x100x150mm
 
 <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Salar%20panels%202.PNG">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Broadband%20IR%20Spectrometer.PNG">
 </p>
 
 #####Solar panels
 - Model: Pumpkin Inc Turkey tail configuration
 - 56W max. output
 - Requires increased cell protection against extended exposure to radiation
+
+<p align="center">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Design/Salar%20panels%202.PNG">
+</p>
