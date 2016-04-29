@@ -2,11 +2,10 @@
 Author Yann HUET 2016
 
 Calculates delta-v for asteroids according to Shoemaker and Helin (1978)
-See
 
 Add delta-v to rendevouzing with asteroids from geostationary orbit
 
-Solution inpired from http://www.asterank.com/
+Solution inspired by http://www.asterank.com/
 """
 
 import numpy as np
