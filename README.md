@@ -50,5 +50,8 @@ Drawing from years of research from industry players and scientific organization
 
 *Nelson, M. L., Britt, D. T., & Lebofsky, L. A. (1993). Resources of near earth space. In J. S. Lewis, M. S. Matthews & M. L. Guerrieri (Eds.), Review of asteroid compositions (pp. 493-522) University of Arizona Press.*
 
-*Ross, S. D. (2001). Near-earth asteroid mining (Space Industry Report)
-Zacny, K., Chu, P., Craft, J., Cohen, M. M., James, W. W., & Hilscher, B. (2013). Asteroid mining. Proc. AIAA SPACE Conference and Exposition, San Diego, CA, USA.*
+*Ross, S. D. (2001). Near-earth asteroid mining (Space Industry Report).*
+
+*Shoemaker, E. M., & Helin, E. F. (1978). Earth-approaching asteroids as targets for exploration. Asteroids: An Exploration Assessment, 2053, 245.*
+
+*Zacny, K., Chu, P., Craft, J., Cohen, M. M., James, W. W., & Hilscher, B. (2013). Asteroid mining. Proc. AIAA SPACE Conference and Exposition, San Diego, CA, USA.*
