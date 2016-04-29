@@ -4,11 +4,11 @@ NASA Space Apps Challenge 2016 : ASTEROID MINING
 #####Projet page
 https://2016.spaceappschallenge.org/challenges/solar-system/asteroid-mining/projects/astro-fuel
 
-#####Commercial Video
-
-
 #####Presentation
 https://prezi.com/ruagaqolkvr5/present/?auth_key=q1kfwvl&follow=0vjt6ivejkro&kw=present-ruagaqolkvr5&rc=ref-195544653
+
+#####Commercial Video
+https://drive.google.com/open?id=0B4T7YifxqeuNeExFQkNpZ1RzWFk
 
 # THE CHALLENGE: ASTEROID MINING
 
