@@ -15,7 +15,7 @@ https://2016.spaceappschallenge.org/challenges/solar-system/asteroid-mining/proj
 https://prezi.com/ruagaqolkvr5/present/?auth_key=q1kfwvl&follow=0vjt6ivejkro&kw=present-ruagaqolkvr5&rc=ref-195544653
 
 #####Commercial Video
-https://drive.google.com/open?id=0B4T7YifxqeuNeExFQkNpZ1RzWFk
+https://drive.google.com/open?id=0B5DLm6lTOa4aZXY5SzZoRWV3T2M
 
 # THE CHALLENGE: ASTEROID MINING
 
