@@ -1,4 +1,6 @@
 """
+Author Yann HUET 2016
+
 Calculates delta-v for asteroids according to Shoemaker and Helin (1978)
 See
 
