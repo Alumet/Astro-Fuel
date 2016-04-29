@@ -39,13 +39,13 @@ Drawing from years of research from industry players and scientific organization
 
 The first stage of the asteroid exploitation project is to identify potential candidates for exploitation. This can be accomplished by extracting data from the available JPL small body, which records discovered objects and their characteristics. Further characterization of asteroids can be carried out from earth orbit through telescopic spectroscopy, and by radar imaging.
 
-https://github.com/Alumet/Astro-Fuel/tree/master/Target-Selection
+[Target-Selection](https://github.com/Alumet/Astro-Fuel/tree/master/Target-Selection)
 
 ####Step 2
 
 Once a potentially water-rich asteroid is identified, further characterization of the latter can be carried out in order to confirm and better evaluate parameters such as an asteroid’s water and volatiles content, mass, and topography.
 
-In order to do so, properly equipped Cube Sat nanosatellites can be launched to rendezvous with the asteroid and conduct surface spectrometry analyses (link to possible Cube Sat configuration: XXXXX). The Cube Sats may be launched in groups of 2 to 4 as contingency for failure. Planning for an impactor mission would furthermore be useful in order to assess the heterogeneity of surface materials and water content by analyzing the impact plume’s compositional spectra from the orbiting Cube Sats.
+In order to do so, properly equipped Cube Sat nanosatellites can be launched to rendezvous with the asteroid and conduct surface spectrometry analyses (link to possible Cube Sat configuration: [CubeSat](https://github.com/Alumet/Astro-Fuel/tree/master/Cubesat)). The Cube Sats may be launched in groups of 2 to 4 as contingency for failure. Planning for an impactor mission would furthermore be useful in order to assess the heterogeneity of surface materials and water content by analyzing the impact plume’s compositional spectra from the orbiting Cube Sats.
 
 The cost of launching this mission, considering that launch is carried out by piggybacking to orbit and a 28kg payload  of 4 Cube Sats, is likely to range between $20,000,000 and $25,000,000 (~$15,000,000 for construction and ~$6,000,000 to ~$10,000,000 for launch). The cost could be further reduced if piggybacking on a launch for geostationary orbit, thus reducing the Delta-V requirement to reach the asteroid.
 
