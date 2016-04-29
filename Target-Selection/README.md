@@ -1,5 +1,12 @@
 #Target selection
-Scripts aim to extract from asteroid database the most suitable asteroid for 2nd stage
+This script aims to extract the most suitable asteroid for the 2nd stage 
+of our mission from an asteroid database, considering:
+  -	Asteroid type
+  -	Asteroid spin
+  -	Delta-V required to rendezvous asteroid
+  -	Earth MOID (Minimum Orbit Intersection Distance) of asteroid
+  -	Asteroid orbit inclination
+
 
 ##Database
 
