@@ -1,4 +1,6 @@
 '''
+    Author Yann HUET 2016
+    
     Astro Fuel project
     Nasa Space Apps Challenge, 2016 Lyon france
     Subject Asteroid Mining
