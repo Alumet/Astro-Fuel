@@ -60,6 +60,8 @@ These drills would elevate the extracted materials into the hollow auger contain
 
 ####Step 4
 
+In order to recover the water from the operations platform, the latter would thrust back to earth LOE to dock and transfer the fluid to an orbiting station. This station would serve both a refueling purpose for launch missions from earth, and a processing purpose, producing Liquid Hydrogen and Oxygen though electrolysis. This implies that the power requirement for the station would be significant, and would heavily influence its design.
+
 # RESOURCES USED
 
 Abell, P. A., Korsmeyer, D. J., Landis, R. R., Jones, T. D., Adamo, D. R., Morrison, D. D., et al. (2009). Scientific exploration of near‐Earth objects via the orion crew exploration vehicle. *Meteoritics & Planetary Science*, 44(12), 1825-1836.
