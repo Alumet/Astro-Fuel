@@ -27,7 +27,7 @@ http://busek.com/index_htm_files/70010819%20BIT-3%20Data%20Sheet%20RevB.pdf
 -	Isp = 2500s
 
  <p align="center">
-    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Astro%20Fuel%20logo.png">
+    <img  align="center" src="https://raw.githubusercontent.com/Alumet/Astro-Fuel/master/Cubesat/Propulsion/graph%202.PNG">
  </p>
 
 Considering the Busek BIT-3 RF ion thruster, 1.3 kg of iodine propellant is required for a 5km/s Delta-V budget. Mission time is also drastically reduced compared to solar sail propulsion, with an acceleration time of 70 days instead of 9 years. 
